@@ -10,6 +10,7 @@ Side-Project:
 
 Booklist: 
 1.) You Don't Know JS series.
+
 2.) JavaScript Design Patterns: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 # Start date: November 4th
