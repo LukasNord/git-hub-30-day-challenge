@@ -1,5 +1,5 @@
 # git-hub-30-day-challenge
-Doing the Prime GH30C -using this as my daily log.  Commits will be from other projects.
+Doing the Prime Github 30 Day Challenge and using this as my daily change log.  Commits will be from other projects will be logged here.
 
 # Plan:
 - Start: Work on building a Progressive Web App that allows friends to build playlists together using Spotify and OAuth2.0
