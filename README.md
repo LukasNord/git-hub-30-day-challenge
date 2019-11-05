@@ -1,9 +1,20 @@
 # git-hub-30-day-challenge
+<<<<<<< HEAD
 Doing the Prime GH30C. Using this as my daily log to write about things learned each day. Starts November 4th.
+=======
+Doing the Prime Github 30 Day Challenge and using this as my daily change log.  Commits will be from other projects will be logged here.
+>>>>>>> a09509c90932155b4f667f089923759e9699370e
 
 # Plan:
-1.) Work on my side project at least 30 minutes each day.
-2.) If the day's schedule doesn't lend itself to coding, read an article or book on programming.
+- Start: Work on building a Progressive Web App that allows friends to build playlists together using Spotify and OAuth2.0
+
+- Start: Unity3D C# tutorials for game development.  
+
+- Continue: Reading JavaScript Design Patterns (https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+- Continue: Finish reading through the last few books in the 'You Don't Know JavaScript' series.      (https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+
+- Continue: Strength Training 3x a week.
 
 ## Code Projects:
  OAuth2.0 enabled Spotify API wrapper. Crowd-source playlists with your friends.
