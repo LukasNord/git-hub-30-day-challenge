@@ -45,3 +45,9 @@ Other Reading ( approx 15 min):
 2.) Diggin in on I/O Bound vs. CPU Bound applications.  https://bytearcher.com/articles/io-vs-cpu-bound/  Part of deeper learning on Node.js and what problem space it works best in. 
 
 
+### November 5th:
+
+1.) 20 minutes of deep stretching.
+
+2.) Reading into Elastic Search and Apache Lucene. Very intrigued by the speed and scale of how this can handle massive data sets. (15 min)
+
