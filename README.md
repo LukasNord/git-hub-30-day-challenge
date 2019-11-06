@@ -51,3 +51,5 @@ Other Reading ( approx 15 min):
 
 2.) Reading into Elastic Search and Apache Lucene. Very intrigued by the speed and scale of how this can handle massive data sets. (15 min)
 
+3.) Reading about Elixir language.
+
