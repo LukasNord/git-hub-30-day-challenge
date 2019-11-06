@@ -53,3 +53,5 @@ Other Reading ( approx 15 min):
 
 3.) Reading about Elixir language.
 
+4.) Created a small hello world app in Elixir. (5 min)
+
