@@ -55,3 +55,14 @@ Other Reading ( approx 15 min):
 
 4.) Created a small hello world app in Elixir. (5 min)
 
+
+### November 6th:
+
+1.) Reading and learning more about ElasticSearch and its use cases.  
+
+2.) Playing around with an interactive tutorial on GraphQL. https://app.graphqleditor.com/?category=tutorial&visibleMenu=code
+
+3.) More exploration of Elixir.  Learing about function arity and some more basics.
+
+4.) Went down a rabbit hole on ACID (Atomicity, Consistency, Isolation, Durability) as it relates to Databases. https://en.wikipedia.org/wiki/ACID
+
