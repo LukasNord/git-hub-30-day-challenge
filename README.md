@@ -66,3 +66,11 @@ Other Reading ( approx 15 min):
 
 4.) Went down a rabbit hole on ACID (Atomicity, Consistency, Isolation, Durability) as it relates to Databases. https://en.wikipedia.org/wiki/ACID
 
+
+
+### November 7th: 
+
+1.) 20 minutes reading through RabbitMQ documentation.  RabbitMQ is a messaging system used to solve for a variety of problems and create some cool features for apps. 
+https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html
+
+
