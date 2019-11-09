@@ -73,4 +73,6 @@ Other Reading ( approx 15 min):
 1.) 20 minutes reading through RabbitMQ documentation.  RabbitMQ is a messaging system used to solve for a variety of problems and create some cool features for apps. 
 https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html
 
+2.) Worker Threads in Node.js kind of blew my mind.  https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0
+ If heavy compute jobs can be solved reliably with this then Node is going to be a powerhouse for all types of servers. 
 
