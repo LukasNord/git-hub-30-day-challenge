@@ -78,3 +78,11 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
 1.) Worker Threads in Node.js kind of blew my mind.  https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0
  If heavy compute jobs can be solved reliably with this then Node is going to be a powerhouse for all types of servers. 
 
+### November 9th: 
+
+1.) Found a nice template for Node/Express TypeScript with a few auth'd routes set up.  Good starting layer for what we'll be working on.  Read through all the libs and code used by the template to understand what/why I'm installing it versus rolling my own. 
+ -  Next step: build or find a Spotify Web Client for handling the [Authorization Code Grant](https://tools.ietf.org/html/rfc6749#section-4.1) flow.
+ -  Write Jest Tests to cover what's already been written.  
+ -  Build dummy API to ping to trigger and test the  
+ -  Write tests. Then write more tests.  
+1.
