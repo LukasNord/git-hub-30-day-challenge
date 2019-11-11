@@ -85,4 +85,8 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
  -  Write Jest Tests to cover what's already been written.  
  -  Build dummy API to ping to trigger and test the  
  -  Write tests. Then write more tests.  
-1.
+ 
+ ### November 10th:
+ 1.) Stretching and body weight workout.
+ 
+ 2.) Reading for pleasure.
