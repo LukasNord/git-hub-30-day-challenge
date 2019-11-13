@@ -95,3 +95,7 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
  ### November 11th:
 1.) Reading on Kubernetes uses and approaches to adopting it.  https://www.docker.com/blog/designing-your-first-app-kubernetes-overview/
 
+
+### November 12th: 
+
+1.) Digging into more advanced features of TypeScript.  Reading up on best ways to port projects over to it. 
