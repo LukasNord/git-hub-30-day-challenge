@@ -83,7 +83,7 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
 1.) Found a nice template for Node/Express TypeScript with a few auth'd routes set up.  Good starting layer for what we'll be working on.  Read through all the libs and code used by the template to understand what/why I'm installing it versus rolling my own. 
  -  Next step: build or find a Spotify Web Client for handling the [Authorization Code Grant](https://tools.ietf.org/html/rfc6749#section-4.1) flow.
  -  Write Jest Tests to cover what's already been written.  
- -  Build dummy API to ping to trigger and test the  
+ -  Build dummy API to ping to trigger and test the login to Spotify.
  -  Write tests. Then write more tests.  
  
  ### November 10th:
@@ -99,3 +99,8 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
 ### November 12th: 
 
 1.) Digging into more advanced features of TypeScript.  Reading up on best ways to port projects over to it. 
+
+### November 13th:
+
+1.) Chagned it up and went down a rabbit hole of YouTube videos from the Low Level JavaScript Channel.  Fascinating stuff!
+   https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw
