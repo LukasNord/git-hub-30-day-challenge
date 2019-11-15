@@ -104,3 +104,8 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
 
 1.) Chagned it up and went down a rabbit hole of YouTube videos from the Low Level JavaScript Channel.  Fascinating stuff!
    https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw
+
+
+### November 14th: 
+1.) Delayed commit: Set up a small side project to test OAuth out.  Started writing a few routes on the main project.
+
