@@ -110,10 +110,10 @@ https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-r
 1.) Delayed commit: Set up a small side project to test OAuth out.  Started writing a few routes on the main project.
 
 
-November 15th: :
+### November 15th: :
 
 Missed a day!
 
-November 16th: 
+### November 16th: 
 
 Went to a local Application Security meetup to discuss and learn about security practices in web development.
