@@ -117,3 +117,8 @@ Missed a day!
 ### November 16th: 
 
 Went to a local Application Security meetup to discuss and learn about security practices in web development.
+
+
+### November 17th: 
+
+Read a few chapters of `this & Object Prototypes`  from the You Don't Know JS series.
