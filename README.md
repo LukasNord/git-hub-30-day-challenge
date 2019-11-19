@@ -122,3 +122,11 @@ Went to a local Application Security meetup to discuss and learn about security 
 ### November 17th: 
 
 Read a few chapters of `this & Object Prototypes`  from the You Don't Know JS series.
+
+### November 18th: 
+
+Weightlifting and stretching after work. Took the night to relax.
+
+
+
+
