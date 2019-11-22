@@ -128,5 +128,12 @@ Read a few chapters of `this & Object Prototypes`  from the You Don't Know JS se
 Weightlifting and stretching after work. Took the night to relax.
 
 
+### November 21st:
 
+Missed a few days. Back on the wagon! Reading through `this & object Prototypes`, part of the YDJS series.  Covering all the contexts in which `this` is defined and accessed. E.g. lexical context binding, hard binding  -> `.bind()`  and  `.call()`, indirect reference and arrow functions.   The various cases in which you want to use null binding as the `this` for functions, creating a truly null object not linked to the Object prototype e.g. `let ø = Object.create(null)`
+
+
+
+
+ 
 
