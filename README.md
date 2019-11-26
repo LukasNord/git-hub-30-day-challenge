@@ -134,6 +134,8 @@ Missed a few days. Back on the wagon! Reading through `this & object Prototypes`
 
 Found a great read on currying in JavaScript and its uses! Very cool examples: [article](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 
+### November 25th:
 
+Deep dive into object prototypes in the YDJS series.  Looking into how object subtypes like Function, String, Array, etc... are implemented in the JS language.
  
 
