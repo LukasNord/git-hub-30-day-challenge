@@ -139,3 +139,5 @@ Found a great read on currying in JavaScript and its uses! Very cool examples: [
 Deep dive into object prototypes in the YDJS series.  Looking into how object subtypes like Function, String, Array, etc... are implemented in the JS language.
  
 
+### November 26th:
+Weight lifting and stretching. 
