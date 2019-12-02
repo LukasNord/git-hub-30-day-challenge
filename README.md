@@ -142,6 +142,11 @@ Deep dive into object prototypes in the YDJS series.  Looking into how object su
 ### November 26th:
 Weight lifting and stretching. 
 
-###November 29th: 
+### November 29th: 
 
 Read a few chapters of You Don't Know JS on prototype chains.
+
+
+### December 1st: 
+
+Finished chapter on object prototypes in YDJS Series.
