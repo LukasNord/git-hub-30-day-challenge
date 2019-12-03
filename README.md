@@ -150,3 +150,7 @@ Read a few chapters of You Don't Know JS on prototype chains.
 ### December 1st: 
 
 Finished chapter on object prototypes in YDJS Series.
+
+### December 2nd:
+
+Read a few articles.  One was on F# and functional programming.  The other was on how websites utilize fingerprinting. Pretty fascinating read with examples on how many different things come together to uniquely identify you without the use of cookies. Spooky stuff.  https://fdossena.com/?p=fingerprinting/i.frag
